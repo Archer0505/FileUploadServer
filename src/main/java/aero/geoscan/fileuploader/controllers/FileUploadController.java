@@ -1,4 +1,4 @@
-package aero.geoscan.fileuploadercontrollers;
+package aero.geoscan.fileuploader.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
